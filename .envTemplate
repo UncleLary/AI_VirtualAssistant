@@ -1,0 +1,19 @@
+# Development settings
+ASSISTANT_NAME = YourAssitantName
+COHERE_API_KEY = Paste your own key here
+TMDB_API_KEY = Paste your own key here
+OPENWEATHER_API = Paste your own key here
+
+
+#Paths to local apps&shortcuts - eg C:\\Path\\To\\Your\\AppOrFolder
+#You can modify the apps/folders, but remember to change "paths" dictionary in ''localMachineFunctions'' file and delete apps you dont have on your machine!
+Notepad = Path to app on your local machine   #May look like this: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Notepad
+Downloads = Path to app on your local machine
+Discord = Path to app on your local machine
+Teams = Path to app on your local machine
+Calculator = Path to app on your local machine #May look like this: C:\\Windows\\System32\\calc.exe
+Screenshots = Path to folder on your local machine
+Expenses = Path to app on your local machine #MyLocalFileWithExpenses
+Chrome = Path to app on your local machine
+Brave = Path to app on your local machine
+Tor = Path to app on your local machine
